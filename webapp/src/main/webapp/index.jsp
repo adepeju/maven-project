@@ -6,6 +6,8 @@
 
 <p>Give us a try and find out for yourself!</p>
 
+<p>We promise you a great solutions experience once you try us!</p>
+
 <p>So it's time to get rolling!!!</p> 
 
 <p>Have a great day!</p>
