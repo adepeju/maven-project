@@ -11,4 +11,4 @@
 <p>So it's time to get rolling!!!</p> 
 
 <p>Have a great day!</p>
-<p>This update was made today, Subday, December 10th, 2017.</p>
+<p>This update was made today, Sunday, December 10th, 2017.</p>
