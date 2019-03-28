@@ -1,6 +1,7 @@
 <h1>Hello, Lagical World! Glad you were able to join us!</h1>
 
-<p>This is the latest update of our site, and it has most of the information discussed in week #9.</p>
+<p>This is the latest update of our site, and it has most of the information discussed in week #27.</p>
+<p>A lot has happened since week 9, we have had so much done in the IT community and we're still growing.</p>
 
 <h1>What do we have to offer?</h1>
 
